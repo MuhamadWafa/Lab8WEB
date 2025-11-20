@@ -29,6 +29,10 @@ VALUES ('Elektronik', 'HP Samsung Android', 'hp_samsung.jpg', 2000000, 2400000, 
 ('Elektronik', 'HP Xiaomi Android', 'hp_xiaomi.jpg', 1000000, 1400000, 5),
 ('Elektronik', 'HP OPPO Android', 'hp_oppo.jpg', 1800000, 2300000, 5);
 ```
+### hasilnya
+
+<img width="953" height="528" alt="image" src="https://github.com/user-attachments/assets/4df52457-9c7d-4b7a-8607-d63e01865894" />
+
 ### 2. Membuat Program CRUD
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 `http://localhost/lab8_php_databse/`
