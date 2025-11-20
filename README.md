@@ -6,7 +6,8 @@
 # Agung Nugroho, S.Kom., M.Kom.
 
 # Tugas
-<img width="914" height="275" alt="Cuplikan layar 2025-11-20 143419" src="https://github.com/user-attachments/assets/63f217fc-5ca8-4dea-95fe-47803847f113" />
+
+<img width="914" height="275" alt="Cuplikan layar 2025-11-20 143419" src="https://github.com/user-attachments/assets/7aae5a47-69cf-417c-8e59-66a4297244c1" />
 
 ## 1. membuat database di XAMPP
 Buka Aplikasi XAMPP lalu pergi ke `phpmyadmin` 
