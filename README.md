@@ -104,3 +104,22 @@ $result = mysqli_query($conn, $sql);
 </body>
 </html>
 ```
+di tambah dengan kode `koneksi.php`
+```python
+<?php
+$host = "localhost";
+$user = "root";
+$pass = "";
+$db = "latihan1";
+$conn = mysqli_connect($host, $user, $pass, $db);
+if ($conn == false)
+{
+echo "Koneksi ke server gagal.";
+die();
+} #else echo "Koneksi berhasil";
+?>
+```
+Lalu tinggal tambah gambar handphone yang sesuai nama file `jpg`
+### hasilnya
+
+<img width="953" height="541" alt="image" src="https://github.com/user-attachments/assets/28f54da7-63af-4bd0-b0bc-3e24bffffe9e" />
